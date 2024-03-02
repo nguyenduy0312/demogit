@@ -1,7 +1,9 @@
 #include <iostream>
 using namespace std;
 int main(){
-    cout<<"Hello World";
-    cout<<"Xin chao";
+    int n;cin>>n;
+    cout<<"Hello World"<<endl;
+    cout<<n+1;
+    cout<<"NGuyen duc duy";
     return 0;
 }
